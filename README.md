@@ -67,5 +67,5 @@ Apesar do crescimento em termos de metas, notou-se uma tendência estacionária 
 - Produto com Maior Margem Bruta:
 O produto com maior margem bruta identificado foi o "Blazer Poderoso Chefão". Recomenda-se a implementação de campanhas de marketing exclusivas para impulsionar as vendas desse item, aproveitando seu desempenho financeiro favorável.
 
-
+<img src="imagens/produtos.png" alt="Produtos" width="700" />
 
