@@ -1,0 +1,2 @@
+# Análise Comercial - Pinsky Modas
+
