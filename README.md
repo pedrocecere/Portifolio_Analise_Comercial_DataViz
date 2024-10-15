@@ -1,6 +1,8 @@
 # Análise Comercial - Pinsky Modas
 
-![https__img migalhas com br__SL__gf_base__SL__empresas__SL__MIGA__SL__imagens__SL__2023__SL__02__SL__15__SL__d90cd13d-88c0-4f57-9aa5-c7878b109c0b jpg _PROC_CP65](https://github.com/user-attachments/assets/bff56a72-8584-40f8-b0a9-412dd4347128)
+<img src="https://sennda.com.br/wp-content/uploads/2018/06/foto-loja-roupa.jpg" alt="Capa do README" width="800" />
+
+
 # 1. Descrição do projeto
 
 Este projeto busca transformar a forma como a Pinsky Modas, uma loja de departamento de vestuário, entende e gerencia seu desempenho comercial. O foco é trazer clareza para os desafios diários, oferecendo uma visão completa das vendas, metas e performance de produtos. Usando o Power BI para criar dashboards interativos e intuitivos, pretendemos fornecer as ferramentas certas para facilitar decisões rápidas e bem informadas, além de ajudar a equipe a definir estratégias mais eficazes.
