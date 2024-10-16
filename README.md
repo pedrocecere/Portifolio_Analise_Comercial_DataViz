@@ -1,6 +1,6 @@
 # Análise Comercial - Pinsky Modas
 
-<img src="imagens/sinais-de-desconto-da-sexta-feira-negra-em-uma-loja-de-roupas-grandes-poupancas-esperam-nao-perca-o-incrivel_996993-103818.jpg" alt="Capa do README" width="700" />
+<img src="imagens/sinais-de-desconto-da-sexta-feira-negra-em-uma-loja-de-roupas-grandes-poupancas-esperam-nao-perca-o-incrivel_996993-103818.jpg" alt="Capa do README" width="1000" />
 
 
 ## 1. Descrição do projeto
